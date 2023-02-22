@@ -1,0 +1,6 @@
+{
+    "name": "Solana Devcontainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}

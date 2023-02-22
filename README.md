@@ -4,8 +4,12 @@
   </a>
 </p>
 
-[![Build status][travis-image]][travis-url] [![Gitpod
-Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/solana-labs/example-helloworld)
+# Running using [containers.dev](https://containers.dev) in Visual Studio Code
+0. Assuming that you already have installed VS Code, VS Code extension "Dev Containers",
+   Docker, and WSL 2 if you are using Windows.
+1. Clone this repo and open it as a usual folder on your host system.
+2. Click on a green button for remote options (left button), and select "Reopen in Container" (Dev Containers).
+3. Wait about 2-3 minutes while it installs Solana inside of a Dev Container and enjoy!
 
 [travis-image]:
 https://travis-ci.org/solana-labs/example-helloworld.svg?branch=master
